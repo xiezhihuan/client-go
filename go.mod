@@ -1,4 +1,4 @@
-module xiezhihuan/client-go
+module github.com/xiezhihuan/client-go
 
 go 1.17
 
