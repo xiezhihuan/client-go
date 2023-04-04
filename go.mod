@@ -1,4 +1,4 @@
-module kubevirt.io/client-go
+module xiezhihuan/client-go
 
 go 1.17
 
